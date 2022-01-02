@@ -140,7 +140,7 @@ html{
     align-items: center;
     background-image: url("");
     line-height: 30px;
-    background-image:url("file:///C:/Users/HP/Desktop/black-magnifying-glass-with-search-text-on-light-gray-background-statistic-analyzing-and-scientific-research-concept-2F9Y0MX.jpg"); 
+    background-image:url("black-magnifying-glass-with-search-text-on-light-gray-background-statistic-analyzing-and-scientific-research-concept-2F9Y0MX.jpg"); 
 }
 
 #home::before{ 
@@ -314,10 +314,10 @@ footer{
     background-color: #3344aa;
 }
 .mid{
-   background-image: url("file:///C:/Users/HP/Desktop/How%20to%20Get%20a%20Job%20in%20Web%20Design.jpg");
+   background-image: url("How to Get a Job in Web Design.jpg");
 /* 
 background-color: black;*/
 }
 .last{
-    background-image: url("file:///C:/Users/HP/Desktop/1691748.jpg")
+    background-image: url("1691748.jpg")
 }
